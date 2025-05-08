@@ -52,3 +52,8 @@ At the moment I only use the interface to take screenshots, using the plotter pr
 As I work only on GNU/Linux, the program I use for the conversion of HPGL into other formats is:
 
 https://www.gnu.org/software/hp2xx/
+
+If you want to ask questions or give feedback, please click here:
+
+https://github.com/Twilight-Logic/AR488/discussions/57
+
