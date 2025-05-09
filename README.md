@@ -31,21 +31,25 @@ I have designed a simple case with OpenSCAD. The opening between the DC connecto
 
 Assembling the interface:
 
-![PCB_assembled_1](https://github.com/user-attachments/assets/98dfb391-9126-492a-80eb-3a0cd131032d)
+![PCB_assembled_01](https://github.com/user-attachments/assets/f4a0dbee-ad48-44d1-a3c4-f6c1f4c82341)
 
-![PCB_assembled_2](https://github.com/user-attachments/assets/8d1c7de0-688e-4d46-a5d3-c5d9181b9402)
+![PCB_assembled_02](https://github.com/user-attachments/assets/4d5e954e-2e02-4f3c-ab66-b1bacf5b7a90)
 
-![PCB_assembled_3](https://github.com/user-attachments/assets/34fc58f5-f511-46e6-832f-04657ff90ed8)
+![PCB_assembled_03](https://github.com/user-attachments/assets/793425fd-1c56-4b5d-b4cc-22087cdfaeee)
 
-Connection between Oscilloscope and Laptop:
+Connecting the AR488 intereface to the Tektronix Oscilloscope and the Laptop:
 
-![Installation_1](https://github.com/user-attachments/assets/72770a9a-bbab-4bc0-b38f-ff36ec0c79d5)
+![Installation_01](https://github.com/user-attachments/assets/3c9bfa0f-64f2-49d6-8e5c-96473dfded04)
 
-![Installation_2](https://github.com/user-attachments/assets/5ab60e99-b052-49f0-b7ed-d8f09b21900a)
+![Installation_02](https://github.com/user-attachments/assets/2442ac53-198d-4149-bebc-e7c880e682f0)
+
+![Installation_03](https://github.com/user-attachments/assets/c2ae6492-74fb-4db0-a9bc-a39f0ecad5fd)
+
+![Installation_04](https://github.com/user-attachments/assets/e92f6324-1474-4cfb-9eb0-0aa4d6a0a597)
 
 And a simple printing test:
 
-![IRQ](https://github.com/user-attachments/assets/885bb673-f40b-4273-b14e-dc84a8f589d5)
+![IRQ](https://github.com/user-attachments/assets/be063bea-b5c6-43ad-b671-c71343568301)
 
 At the moment I only use the interface to take screenshots, using the plotter print option that this oscilloscope has. The oscilloscope sends data in HPGL format, which I capture on a Serial Terminal, and then convert into a vector file (svg) or I can also export as a jpg, png, etc.
 
