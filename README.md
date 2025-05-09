@@ -1,6 +1,6 @@
 # AR488_Implementation
 
-This is my implementation of the **AR488 Arduino GPIB Interface** project by Twilight-Logic:
+This is my implementation of the **AR488 Arduino GPIB Interface** project by **Twilight-Logic**:
 
 [AR488 by Twilight-Logic](https://github.com/Twilight-Logic/AR488)
 
